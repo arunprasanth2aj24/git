@@ -5,5 +5,7 @@ public class Main{
         Demo.new1();
         Demo.new2();
 
+        System.out.println("New feature");
+
     }
 }
