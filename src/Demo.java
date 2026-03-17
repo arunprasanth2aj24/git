@@ -8,5 +8,7 @@ public class Demo {
         System.out.println("Changes of new branch");
     }
 
+    //from the feature branch
+
     // New from the new Branch
 }
