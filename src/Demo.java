@@ -7,4 +7,6 @@ public class Demo {
     public static void new2(){
         System.out.println("Changes of new branch");
     }
+
+    // New from the new Branch
 }
