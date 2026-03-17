@@ -11,4 +11,8 @@ public class Demo {
     //from the feature branch
 
     // New from the new Branch
+
+    public static void new3(){
+        System.out.println("This is a new feature v2.1");
+    }
 }
