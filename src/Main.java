@@ -6,6 +6,8 @@ public class Main{
         Demo.new2();
 
         System.out.println("New feature");
+        System.out.println("New feature from feature branch");
+
 
     }
 }
